@@ -2,7 +2,7 @@
 /*
     Class Name: DocusignServices2
     Author: Ram
-    Description: Common Util class used for docusign contract signing process (PDF)
+    Description: Common Util class used for docusign contract signing process (PDF Document)
    
  */
 
