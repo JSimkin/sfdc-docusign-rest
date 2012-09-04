@@ -6,9 +6,9 @@ Docusign REST API Implementation with Force.com Sample Code:
 
 Controllers:
 
-1. ContractPDF.cls - PDF generation controller for Contract & Sending Document to Docusign
+ContractPDF.cls - PDF generation controller for Contract & Sending Document to Docusign
 
-2. DocusignService2.cls - REST API implementation of Docusign APIs for sending PDF document using Apex/JSON
+DocusignService2.cls - REST API implementation of Docusign APIs for sending PDF document using Apex/JSON
 
 
 Custom Objects:
