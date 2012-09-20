@@ -36,23 +36,46 @@
 			<table width="800">
 				<tbody>
 					<tr>
-						<td width="25%" height="50">Customer Signature</td>
-						<td width="25%" height="50"/>
-						<td width="25%" height="50">Seller Signature</td>
-						<td width="25%" height="50"/>
+						<td width="25%" height="20" style="color:white">CustSignInsert</td>
+						<td width="25%" height="20"/>
+						<td width="25%" height="20" style="color:white">SellSignInsert</td>
+						<td width="25%" height="20"/>
 					</tr>
-					<tr />
 					<tr>
-						<td width="25%" height="50">Customer Title</td>
-						<td width="25%" height="50"/>
-						<td width="25%" height="50">ABC Test Seller</td>
-						<td width="25%" height="50"/>
+						<td width="25%" height="20">---------------------------</td>
+						<td width="25%" height="20"/>
+						<td width="25%" height="20">---------------------------</td>
+						<td width="25%" height="20"/>
 					</tr>
-					<tr />
 					<tr>
-						<td width="25%" height="50" >Date</td>
+						<td width="25%" height="20">Customer Signature</td>
+						<td width="25%" height="20"/>
+						<td width="25%" height="20">Seller Signature</td>
+						<td width="25%" height="20"/>
+					</tr>
+					<tr>
+						<td width="25%" height="30" style="color:white">CustTitle</td>
+						<td width="25%" height="30"/>
+						<td width="25%" height="30" style="color:white">SellerTitle</td>
+						<td width="25%" height="30"/>
+					</tr>
+					<tr>
+						<td width="25%" height="20">---------------------------</td>
+						<td width="25%" height="20"/>
+						<td width="25%" height="20">---------------------------</td>
+						<td width="25%" height="20"/>
+					</tr>
+					<tr>
+						<td width="25%" height="20">Customer Title</td>
+						<td width="25%" height="20"/>
+						<td width="25%" height="20">Seller Title</td>
+						<td width="25%" height="20"/>
+					</tr>
+					<tr/>
+					<tr>
+						<td width="25%" height="50" >Date: <span style="color:white">CustDate</span></td>
 						<td width="25%" height="50" />
-						<td width="25%" height="50" >Date</td>
+						<td width="25%" height="50" >Date <span style="color:white">SellDate</span></td>
 						<td width="25%" height="50" />
 					</tr>
 				</tbody>
